@@ -6,6 +6,8 @@ Tutorial available here https://ourcodingclub.github.io/2017/05/15/git-for-labs.
 
 Data available from the Living Planet Index http://www.livingplanetindex.org/home/index
 
+Check out https://ourcodingclub.github.io/workshop/ to learn how you can get involved!
+
 We would love to hear your feedback on the tutorial, whether you did it at a Coding Club workshop or online: 
 https://www.surveymonkey.co.uk/r/2P9R58J
 
